@@ -8,8 +8,20 @@
 
 ## :hammer: Tech Stack
 
-**:yellow_book: JavaScript** <br>
+**:ledger: JavaScript** <br>
 **:framed_picture: HTML and CSS** <br>
+
+---
+
+## :open_book: The project
+
+The project came up as an idea at the beginning of my programming learning in order to demonstrate what I learned studying JavaScript.
+
+---
+
+## :heavy_check_mark: The final result
+
+![calculator](https://user-images.githubusercontent.com/107329000/173858816-2728da00-f0cb-47f5-bc1f-ceeae134958f.gif)
 
 ---
 
@@ -19,7 +31,7 @@ Clone the repo in your terminal writting:
 
 #### `$ git clone `
 
-    In the project directory, you can run: ## link do repositorio ##
+    In the project directory, you can run: https://github.com/herbertgaribaldi/calculadora-js.git
 
 #### `npm start`
 
