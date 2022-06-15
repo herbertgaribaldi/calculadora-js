@@ -1,8 +1,8 @@
-# :clock12: JavaScript calculator
+# :heavy_plus_sign: JavaScript calculator
 
 ---
 
-![clock-header](https://user-images.githubusercontent.com/107329000/173855263-a8898965-f3cf-492d-b941-5770d207c048.png)
+![calculator-header](https://user-images.githubusercontent.com/107329000/173856452-73a3ded8-56eb-4f95-99b2-606571a0c072.png)
 
 ---
 
