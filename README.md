@@ -57,6 +57,6 @@ Clone the repo in your terminal writting:
 
 ---
 
-#### Or visit the <a href={https://herbertgaribaldi.github.io/calculadora-js/} className='footer-calculator-link'>Calculator repository to test!
+#### Or visit https://herbertgaribaldi.github.io/calculadora-js/ to test!
 
 ---
