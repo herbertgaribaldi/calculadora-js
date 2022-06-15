@@ -8,8 +8,9 @@
 
 ## :hammer: Tech Stack
 
-**:ledger: JavaScript** <br>
-**:framed_picture: HTML and CSS** <br>
+**:ledger: JavaScript;** <br>
+**:building_construction: HTML;** <br>
+**:art: CSS.** <br>
 
 ---
 
@@ -58,5 +59,3 @@ Clone the repo in your terminal writting:
 ---
 
 #### Or visit https://herbertgaribaldi.github.io/calculadora-js/ to test!
-
----
