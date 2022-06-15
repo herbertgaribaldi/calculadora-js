@@ -5,50 +5,13 @@
 ![calculator-header](https://user-images.githubusercontent.com/107329000/173856452-73a3ded8-56eb-4f95-99b2-606571a0c072.png)
 
 ---
-
-## :bulb: Features
-
-:tv: 1. A loading screen will appear if the API takes too long to load; <br>
-:tv: 2. Random movies in the banner when refresh; <br>
-:tv: 3. Navbar which change its color when scroll; <br>
-:tv: 4. Carousel of movies coming from the TMDB API; <br>
-
-<img src="">
- 
-## :pushpin: Topics
- 
-:movie_camera: 1. TMDB API; <br>
-:movie_camera: 2. Using an API in React; <br>
-:movie_camera: 3. Transitions; <br>
-:movie_camera: 4. Carousel effect; <br>
-:movie_camera: 5. Navbar transition; <br>
-:movie_camera: 6. ASYNC Javascript; <br>
-:movie_camera: 8. Promises; <br>
-:movie_camera: 9. React Hooks; <br>
  
 ## :hammer: Tech Stack
  
-**:atom_symbol: React** <br>
-**:orange_book: JavaScript** <br>
-**:pencil2: useEffect** <br>
-**:traffic_light: useState** <br>
+**:yellow_book: JavaScript** <br>
 **:framed_picture: HTML and CSS** <br>
  
-## :gear: Functionalities
- 
-#### 1º Navbar will change color when scroll
- 
-<img src="https://github.com/RodrigoJuniorLiyah/CloneNetflix--ReactJs/raw/master/gifs/GifTopbarNetflix.gif" width="auto" height="auto" />
- 
-#### 2º Animation of site elements
- 
-<img src="https://github.com/RodrigoJuniorLiyah/CloneNetflix--ReactJs/raw/master/gifs/buttonsAndImage.gif" width="auto" height="auto" />
- 
-<img src="https://github.com/RodrigoJuniorLiyah/CloneNetflix--ReactJs/raw/master/gifs/DestaquesMovieAndSeries.gif" width="auto" height="auto" />
- 
-#### 3º Classic Netflix loading screen
- 
-<img src="https://github.com/RodrigoJuniorLiyah/CloneNetflix--ReactJs/raw/master/gifs/Loading.gif" width="auto" height="auto" />
+---
  
 ## :open_book: Installation
  
@@ -81,6 +44,6 @@ Clone the repo in your terminal writting:
 #### `npm run eject`
 ---
 
-#### Or visit ## link do github pages ## to test!
+#### Or visit the <a href={https://herbertgaribaldi.github.io/calculadora-js/} className='footer-calculator-link'>Calculator repository to test!
 
 ---
