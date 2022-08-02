@@ -56,6 +56,3 @@ Clone the repo in your terminal writting:
 
 #### `npm run eject`
 
----
-
-#### Or visit https://herbertgaribaldi.github.io/calculadora-js/ to test!
